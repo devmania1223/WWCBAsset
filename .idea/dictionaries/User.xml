@@ -1,0 +1,33 @@
+<component name="ProjectDictionaryState">
+  <dictionary name="User">
+    <words>
+      <w>accountaddr</w>
+      <w>accountid</w>
+      <w>algo</w>
+      <w>algod</w>
+      <w>algorand</w>
+      <w>assetid</w>
+      <w>auths</w>
+      <w>bankaddr</w>
+      <w>bankr</w>
+      <w>bankrency</w>
+      <w>cbdc</w>
+      <w>clawback</w>
+      <w>clwbck</w>
+      <w>draftfile</w>
+      <w>kobo</w>
+      <w>leafbank</w>
+      <w>mngr</w>
+      <w>multisig</w>
+      <w>myindexer</w>
+      <w>naira</w>
+      <w>notuseful</w>
+      <w>purestake</w>
+      <w>revocator</w>
+      <w>stxn</w>
+      <w>trxn</w>
+      <w>txid</w>
+      <w>txinfo</w>
+    </words>
+  </dictionary>
+</component>
